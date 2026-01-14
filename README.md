@@ -29,19 +29,17 @@ The objective is to perform data cleaning, filtering, and aggregation to identif
 - Top countries by revenue  
 - Best-performing products
 - 
-## 📁 Project Structure
-Retail-Sales-Analysis/
+## 📂 Project Structure
 
-├─ data/
-│ └─ retails_sample.csv # Sample dataset used for analysis (subset of full dataset)
-│
-├─ notebooks/
-│ └─ Retail_Sales_Filtering.ipynb # Python notebook for data filtering and initial analysis
-│
-├─ dashboard/
-│ └─ Retail_Sales_Dashboard.pbix # Power BI dashboard containing 3 main visualizations
-│
-└─ README.md # Project description, instructions, and file details
+Retail-Sales-Analysis/
+├── data/
+│   └── retails_sample.csv        # Sample dataset used for analysis (subset of full dataset)
+├── notebooks/
+│   └── Retail_Sales_Filtering.ipynb  # Python notebook for data filtering and initial analysis
+├── dashboard/
+│   └── Retail_Sales_Dashboard.pbix   # Power BI dashboard with 3 main visualizations
+└── README.md                     # Project description, instructions, and file details
+
 ---
 
 ## ⚠️ Dataset Note
