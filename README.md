@@ -39,8 +39,18 @@ Retail-Sales-Analysis/
 │   └── Retail_Sales_Filtering.ipynb
 ├── dashboard/
 │   └── Retail_Sales_Dashboard.pbix
+├── dashboard_preview/
+│   └── dashboard_overview.png
 └── README.md
 ```
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard_preview/dashboard_overview.png)
+
+> 📌 **Note:**  
+> The Power BI dashboard file (`.pbix`) cannot be previewed directly on GitHub.  
+> Please download the file and open it using **Power BI Desktop** to explore the interactive version.
+
 
 
 ## ⚠️ Dataset Note
