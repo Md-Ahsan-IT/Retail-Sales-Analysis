@@ -27,13 +27,21 @@ The objective is to perform data cleaning, filtering, and aggregation to identif
 ## 📈 Dashboard Insights
 - Monthly sales trend  
 - Top countries by revenue  
-- Best-performing products  
+- Best-performing products
+- 
 ## 📁 Project Structure
----Retail-Sales-Analysis/
+Retail-Sales-Analysis/
 │
-├── retail_sample.csv
-├── README.md
-
+├─ data/
+│ └─ retails_sample.csv # Sample dataset used for analysis (subset of full dataset)
+│
+├─ notebooks/
+│ └─ Retail_Sales_Filtering.ipynb # Python notebook for data filtering and initial analysis
+│
+├─ dashboard/
+│ └─ Retail_Sales_Dashboard.pbix # Power BI dashboard containing 3 main visualizations
+│
+└─ README.md # Project description, instructions, and file details
 ---
 
 ## ⚠️ Dataset Note
