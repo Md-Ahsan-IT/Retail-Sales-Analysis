@@ -28,7 +28,7 @@ The objective is to perform data cleaning, filtering, and aggregation to identif
 - Monthly sales trend  
 - Top countries by revenue  
 - Best-performing products
-- 
+  
 ## 📁 Project Structure
 
 ```
