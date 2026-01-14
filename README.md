@@ -31,7 +31,7 @@ The objective is to perform data cleaning, filtering, and aggregation to identif
 - 
 ## 📁 Project Structure
 Retail-Sales-Analysis/
-│
+
 ├─ data/
 │ └─ retails_sample.csv # Sample dataset used for analysis (subset of full dataset)
 │
