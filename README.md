@@ -31,21 +31,17 @@ The objective is to perform data cleaning, filtering, and aggregation to identif
 - 
 ## 📁 Project Structure
 
+```
 Retail-Sales-Analysis/
 ├── data/
 │   └── retails_sample.csv
-│       # Sample dataset used for analysis (subset of full dataset)
 ├── notebooks/
 │   └── Retail_Sales_Filtering.ipynb
-│       # Python notebook for data filtering and initial analysis
 ├── dashboard/
 │   └── Retail_Sales_Dashboard.pbix
-│       # Power BI dashboard with 3 main visualizations
 └── README.md
-    # Project description, instructions, and file details
+```
 
-
----
 
 ## ⚠️ Dataset Note
 Due to GitHub file size limitations, a sample dataset is included in this repository.
